@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fer\\source\\repos\\PreEntrega_15_08\\PreEntrega_15_08\\PreEntrega_15_08.csproj",
+      "projectUniqueName": "C:\\Users\\Fer\\Desktop\\Proyecto_C#_CoderHouse\\mi_primer_repositorio\\PreEntrega_15_08\\PreEntrega_15_08\\PreEntrega_15_08.csproj",
       "projectName": "PreEntrega_15_08",
-      "projectPath": "C:\\Users\\Fer\\source\\repos\\PreEntrega_15_08\\PreEntrega_15_08\\PreEntrega_15_08.csproj",
+      "projectPath": "C:\\Users\\Fer\\Desktop\\Proyecto_C#_CoderHouse\\mi_primer_repositorio\\PreEntrega_15_08\\PreEntrega_15_08\\PreEntrega_15_08.csproj",
       "packagesPath": "C:\\Users\\Fer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fer\\source\\repos\\PreEntrega_15_08\\PreEntrega_15_08\\obj\\",
+      "outputPath": "C:\\Users\\Fer\\Desktop\\Proyecto_C#_CoderHouse\\mi_primer_repositorio\\PreEntrega_15_08\\PreEntrega_15_08\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fer\\AppData\\Roaming\\NuGet\\NuGet.Config",

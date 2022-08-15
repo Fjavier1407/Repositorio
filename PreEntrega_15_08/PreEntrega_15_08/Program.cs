@@ -1,14 +1,4 @@
-﻿public class Producto
-{
-    private long idProducto;
-    private string descripcion;
-    private double costo;
-    private double precioVenta;
-    private int stock;
-    private long idUsuario;
-}
-
-public class Usuario
+﻿public class Usuario
 {
     private long idUsuario;
     private string nombre;
@@ -31,9 +21,9 @@ public class Producto
 public class ProductoVendido
 {
     private long idProductoVendido;
-    private long idProducto
+    private long idProducto;
     private int stock;
-    private idVenta
+    private int idVenta;
 }
 
 public class Venta
